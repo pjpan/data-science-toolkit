@@ -1,6 +1,5 @@
-# Arsenal Project
-Arsenal：兵工厂<br/>
-共建虎扑算法共用函数库，打造兵工厂提升效率
+#  Project
+共建算法共用函数库，打造兵工厂提升效率
 
 - 推荐排序模型：srs_rec_model.py
 - TensorFlow辅助函数：tf_utils.py
